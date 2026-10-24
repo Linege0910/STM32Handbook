@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本地配置（含 SDK 路径，不应提交）
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.hprof
+.DS_Store
+
+# Keystore（签名文件，勿提交）
+*.jks
+*.keystore
+
+# 日志
+*.log
