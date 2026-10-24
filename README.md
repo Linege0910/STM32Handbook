@@ -1,5 +1,10 @@
 # STM32 学习手册
 
+[![Release](https://img.shields.io/github/v/release/Linege0910/STM32Handbook?label=release)](https://github.com/Linege0910/STM32Handbook/releases/latest)
+[![Download](https://img.shields.io/badge/APK-20.67%20MB-3DDC84?logo=android&logoColor=white)](https://github.com/Linege0910/STM32Handbook/releases/latest)
+[![minSdk](https://img.shields.io/badge/Android-7.0%2B-blue?logo=android)](https://github.com/Linege0910/STM32Handbook/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 基于江协科技（江科大）STM32F103 标准库教程整理的 Android 离线手册。
 
 使用 **Jetpack Compose + Material Design 3** 构建，全部内容内置，**无需联网**。
@@ -26,7 +31,13 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/Linege0910/STM32Handbook/releases) 下载最新 APK 直接安装。
+**[⬇ 下载 STM32Handbook-v1.0.0.apk](https://github.com/Linege0910/STM32Handbook/releases/download/v1.0.0/STM32Handbook-v1.0.0.apk)**　（20.67 MB）
+
+- 系统要求：Android 7.0（API 24）及以上
+- SHA256：`81A2E7B83DBF305DBD424EAB20A7A48DF2C491011724899BC885CE583C436EC5`
+- 首次安装需允许「安装未知来源应用」
+
+全部版本见 [Releases](https://github.com/Linege0910/STM32Handbook/releases)。
 
 或自行编译，见下方「构建」。
 
