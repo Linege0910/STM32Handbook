@@ -24,13 +24,11 @@
 | 代码行数 | 34,317 行 |
 | 接线图 | 38 张 |
 
-## 截图
+## 下载
 
-<p align="center">
-  <img src="docs/screenshots/home.png" width="30%" />
-  <img src="docs/screenshots/wiring.png" width="30%" />
-  <img src="docs/screenshots/code.png" width="30%" />
-</p>
+前往 [Releases](https://github.com/Linege0910/STM32Handbook/releases) 下载最新 APK 直接安装。
+
+或自行编译，见下方「构建」。
 
 ## 章节列表
 
